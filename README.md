@@ -23,7 +23,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Koumudi04&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koumudi04&theme=tokyonight&show_icons=true" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koumudi04&theme=prussian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=Koumudi04&theme=github" />
 </div>
 
