@@ -22,7 +22,7 @@
 <br />
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Koumudi04&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Koumudi04&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Koumudi04&theme=dark&date_format=j%20M%5B%20Y%5D&background=010000&ring=FB72F4C8&fire=6593DD&currStreakLabel=90CAF5" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=Koumudi04&theme=material-palenight" />
 </div>
